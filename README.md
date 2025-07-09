@@ -29,7 +29,8 @@ Right now, I’m working on personal projects to learn more and showcase my skil
 
 ---
 
-Takk for at du besøkte profilen min! / Thanks for visiting my profile!
+Takk for at du besøkte profilen min!
+Ta gjerne kontakt hvis du vil samarbeide, har spørsmål eller bare vil si hei!
 
-Ta gjerne kontakt hvis du vil samarbeide, har spørsmål eller bare vil si hei!  
+Thanks for visiting my profile!
 Feel free to get in touch if you want to collaborate, ask something, or just say hi!
