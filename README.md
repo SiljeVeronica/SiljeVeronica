@@ -1,16 +1,35 @@
-## Hi there 👋
+ Hei! 👋 / Hello there! 👋
 
-<!--
-**SiljeVeronica/SiljeVeronica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeg heter Silje Veronica, og jeg studerer IT og digitalisering.  
+Jeg er spesielt interessert i programvareutvikling og kunstig intelligens / maskinlæring.  
+Akkurat nå bygger jeg egne prosjekter for å lære mer og vise hva jeg kan.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Silje Veronica, and I’m currently studying IT and digitalization.  
+I’m especially interested in software development and artificial intelligence / machine learning.  
+Right now, I’m working on personal projects to learn more and showcase my skills.
+
+---
+
+## 🔧 Teknologier jeg jobber med / Technologies I work with
+
+- Python 🐍
+- FastAPI, Flask
+- Scikit-learn, NumPy, Pandas
+- Git & GitHub
+- HTML, CSS, a bit of JavaScript
+
+---
+
+## 📫 Kontakt / Contact
+
+- E-post: siljeverono@gmail.com
+- LinkedIn: 
+
+---
+
+Takk for at du besøkte profilen min! / Thanks for visiting my profile!
+
+Ta gjerne kontakt hvis du vil samarbeide, har spørsmål eller bare vil si hei!  
+Feel free to get in touch if you want to collaborate, ask something, or just say hi!
