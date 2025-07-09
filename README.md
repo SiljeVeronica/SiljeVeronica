@@ -1,12 +1,12 @@
  Hei! 👋 / Hello there! 👋
 
-Jeg heter Silje Veronica, og jeg studerer IT og digitalisering.  
+Jeg heter Silje, og jeg studerer IT og digitalisering.  
 Jeg er spesielt interessert i programvareutvikling og kunstig intelligens / maskinlæring.  
 Akkurat nå bygger jeg egne prosjekter for å lære mer og vise hva jeg kan.
 
 ---
 
-My name is Silje Veronica, and I’m currently studying IT and digitalization.  
+My name is Silje, and I’m currently studying IT and digitalization.  
 I’m especially interested in software development and artificial intelligence / machine learning.  
 Right now, I’m working on personal projects to learn more and showcase my skills.
 
