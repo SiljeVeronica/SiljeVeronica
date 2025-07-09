@@ -25,8 +25,7 @@ Right now, I’m working on personal projects to learn more and showcase my skil
 ## 📫 Kontakt / Contact
 
 - E-post: siljeverono@gmail.com
-- LinkedIn: https://www.linkedin.com/in/silje-veronica-f%C3%B8lsvik-b45782298?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bhoc2mbgiQPe%2FTOMtbA5zew%3D%3D
-
+- LinkedIn: [LinkedIn-profilen min / My LinkedIn profile](https://www.linkedin.com/in/silje-veronica-f%C3%B8lsvik-b45782298)
 ---
 
 Takk for at du besøkte profilen min!
