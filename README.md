@@ -12,7 +12,7 @@ Right now, I’m working on personal projects to learn more and showcase my skil
 
 ---
 
-## 🔧 Teknologier jeg jobber med / Technologies I work with
+##  Teknologier jeg jobber med / Technologies I work with
 
 - Python 🐍
 - FastAPI, Flask
