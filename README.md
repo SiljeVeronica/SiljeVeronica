@@ -14,14 +14,15 @@ Right now, I’m working on personal projects to learn more and showcase my skil
 
 ##  Teknologier jeg jobber med / Technologies I work with
 
-- Python 🐍
+- Python 
 - NumPy, Pandas
 - Git & GitHub
 - HTML, CSS, a bit of JavaScript
+- Jupyter Notebook  
 
 ---
 
-## 📫 Kontakt / Contact
+## Kontakt / Contact
 
 - E-post: siljeverono@gmail.com
 - LinkedIn: [LinkedIn-profilen min / My LinkedIn profile](https://www.linkedin.com/in/silje-veronica-f%C3%B8lsvik-b45782298)
