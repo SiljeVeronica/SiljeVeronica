@@ -1,10 +1,11 @@
- Hei! 👋 / Hello there! 👋
+Hei!
 
 Jeg heter Silje, og jeg studerer IT og digitalisering.  
 Jeg er spesielt interessert i programvareutvikling, kunstig intelligens og maskinlæring.  
 Akkurat nå bygger jeg egne prosjekter for å lære mer og vise hva jeg kan.
 
 ---
+Hello!
 
 My name is Silje, and I’m currently studying IT and digitalization.  
 I’m especially interested in software development, artificial intelligence and machine learning.  
