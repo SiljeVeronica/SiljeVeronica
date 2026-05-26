@@ -16,7 +16,7 @@ Right now, I’m working on personal projects to learn more and showcase my skil
 - Python 
 - NumPy, Pandas
 - Git & GitHub
-- HTML, CSS, a bit of JavaScript
+- HTML, CSS, JavaScript
 - Jupyter Notebook  
 
 ---
