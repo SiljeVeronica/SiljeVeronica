@@ -1,15 +1,13 @@
 Hei!
 
-Jeg heter Silje, og jeg studerer IT og digitalisering.  
-Jeg er spesielt interessert i programvareutvikling, kunstig intelligens og maskinlæring.  
-Akkurat nå bygger jeg egne prosjekter for å lære mer og vise hva jeg kan.
+Jeg er nylig ferdig med en bachelor i IT og digitalisering, og har interesse for programvareutvikling, kunstig intelligens, maskinlæring og dataanalyse.
+Akkurat nå bygger jeg egne prosjekter for å utvikle ferdighetene mine videre, få mer praktisk erfaring og vise hva jeg kan gjennom GitHub.
 
 ---
 Hello!
 
-My name is Silje, and I’m currently studying IT and digitalization.  
-I’m especially interested in software development, artificial intelligence and machine learning.  
-Right now, I’m working on personal projects to learn more and showcase my skills.
+I recently completed a bachelor’s degree in IT and Digitalization, and I’m interested in software development, artificial intelligence, machine learning and data analytics.
+I’m currently working on personal projects to continue developing my skills, gain practical experience and showcase my work on GitHub.
 
 ---
 
@@ -24,7 +22,7 @@ Right now, I’m working on personal projects to learn more and showcase my skil
 ## Kontakt / Contact
 
 - E-post: siljeverono@gmail.com
-- LinkedIn: [LinkedIn-profilen min / My LinkedIn profile](https://www.linkedin.com/in/silje-veronica-f%C3%B8lsvik-b45782298)
+- LinkedIn: [https://www.linkedin.com/in/silje-veronica-f%C3%B8lsvik-b45782298]
 ---
 
 Takk for at du besøkte profilen min!
